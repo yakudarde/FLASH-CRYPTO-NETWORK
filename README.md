@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logos/flash-crypto-logo.png" alt="Flash Crypto Logo" width="500">
+  <img src="logos/flash-crypto-logo.png" alt="Flash Crypto Logo" width="800">
 </p>
 
 # 🌟 Flash Crypto 💎
@@ -77,21 +77,20 @@ Flash Crypto offers a colorful, user-friendly interface to explore and manage di
 
 ---
 
-## 🖼️ Flash Crypto Logo & Cryptocurrency Icons
+## 🖼️ Flash Crypto Logo & Cryptocurrency 
 
-Flash Crypto features a bold main logo and vibrant icons for cryptocurrencies and networks, stored in the `logos/` folder. Ensure all logo files are uploaded to the `logos/` folder in your repository to display correctly.
 
-| **Item**                    | **Logo Preview**                     |
+
+| ****                    | ****                     |
 |-----------------------------|--------------------------------------|
-| **Flash Crypto (Main Logo)**| ![Flash Crypto Logo](logos/flash-crypto-logo.png) |
-| Tether (USDT)              | ![Tether Logo](logos/tether-usdt-logo.png) |
-| Bitcoin (BTC)              | ![Bitcoin Logo](logos/bitcoin-btc-logo.png) |
-| Ethereum (ETH)             | ![Ethereum Logo](logos/ethereum-eth-logo.png) |
-| Solana (SOL)               | ![Solana Logo](logos/solana-sol-logo.png) |
-| USD Coin (USDC)            | ![USDC Logo](logos/usd-coin-usdc-logo.png) |
-| BNB Chain                  | ![BNB Chain Logo](logos/binance-coin-bnb-logo.png) |
-| Tron (TRC20)               | ![Tron Logo](logos/tron-trx-logo.png) |
-| Polygon (MATIC)            | ![Polygon Logo](logos/polygon-matic-logo.png) |
+| Tether (USDT)              | <img src="logos/tether-usdt-logo.png" alt="Tether Logo" width="50"> |
+| Bitcoin (BTC)              | <img src="logos/bitcoin-btc-logo.png" alt="Bitcoin Logo" width="50"> |
+| Ethereum (ETH)             | <img src="logos/ethereum-eth-logo.png" alt="Ethereum Logo" width="50"> |
+| Solana (SOL)               | <img src="logos/solana-sol-logo.png" alt="Solana Logo" width="50"> |
+| USD Coin (USDC)            | <img src="logos/usd-coin-usdc-logo.png" alt="USDC Logo" width="50"> |
+| BNB Chain                  | <img src="logos/binance-coin-bnb-logo.png" alt="BNB Chain Logo" width="50"> |
+| Tron (TRC20)               | <img src="logos/tron-trx-logo.png" alt="Tron Logo" width="50"> |
+| Polygon (MATIC)            | <img src="logos/polygon-matic-logo.png" alt="Polygon Logo" width="50"> |
 
 
 ---
