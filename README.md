@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logos/flash-crypto-logo.png" alt="Flash Crypto Logo" width="200">
+  <img src="logos/flash-crypto-logo.png" alt="Flash Crypto Logo" width="500">
 </p>
 
 # 🌟 Flash Crypto 💎
@@ -26,7 +26,7 @@ Flash Crypto offers a colorful, user-friendly interface to explore and manage di
 - 📱 **Responsive Design**: Optimized for desktop, tablet, and mobile with vibrant gradients.
 - 🔥 **Firebase Integration**: Secure authentication and data storage.
 - 💬 **Interactive Support Chat**: Instant help via the built-in chat panel.
-- 🌐 **Social Media Integration**: Connect via Telegram, Discord, X, and Facebook.
+- 🌐 **Social Media Integration**: Connect via Telegram.
 - 🏦 **Supported Platforms**: Trade on top exchanges like Binance, Coinbase, Kraken, and more.
 - 🖼️ **Vibrant Logos**: Stunning logos for cryptocurrencies, networks, and Flash Crypto.
 
@@ -57,7 +57,7 @@ Flash Crypto offers a colorful, user-friendly interface to explore and manage di
 5. **Manage Balances** 💸:
    - Log in to the dashboard.
    - Send or deposit **Flash Balances** (15% fee applies).
-   
+
 6. **Get Support** 💬:
    - Use the **Support Chat** panel for instant assistance.
 
@@ -79,39 +79,39 @@ Flash Crypto offers a colorful, user-friendly interface to explore and manage di
 
 ## 🖼️ Flash Crypto Logo & Cryptocurrency Icons
 
-Flash Crypto features a bold main logo and vibrant icons for cryptocurrencies and networks, stored in the `logos/` folder:
+Flash Crypto features a bold main logo and vibrant icons for cryptocurrencies and networks, stored in the `logos/` folder. Ensure all logo files are uploaded to the `logos/` folder in your repository to display correctly.
 
-| **Item**                    | **Logo File**                | **Description**                     |
-|-----------------------------|------------------------------|-------------------------------------|
-| **Flash Crypto (Main Logo)**| `flash-crypto-logo.png`      | Official logo for Flash Crypto      |
-| Tether (USDT)              | `tether-usdt-logo.png`       | USDT logo for TRC20, Ethereum, BNB Chain |
-| Bitcoin (BTC)              | `bitcoin-btc-logo.png`       | Bitcoin logo for BTC transactions   |
-| Ethereum (ETH)             | `ethereum-eth-logo.png`      | Ethereum logo for ETH and tokens    |
-| Solana (SOL)               | `solana-sol-logo.png`        | Solana logo for SOL transactions    |
-| USD Coin (USDC)            | `usd-coin-usdc-logo.png`     | USDC logo for Ethereum, Solana, Polygon |
-| BNB Chain                  | `binance-coin-bnb-logo.png`  | BNB Chain logo for USDT/USDC        |
-| Tron (TRC20)               | `tron-trx-logo.png`          | Tron logo for TRC20 USDT            |
-| Polygon (MATIC)            | `polygon-matic-logo.png`     | Polygon logo for USDC transactions  |
+| **Item**                    | **Logo Preview**                     |
+|-----------------------------|--------------------------------------|
+| **Flash Crypto (Main Logo)**| ![Flash Crypto Logo](logos/flash-crypto-logo.png) |
+| Tether (USDT)              | ![Tether Logo](logos/tether-usdt-logo.png) |
+| Bitcoin (BTC)              | ![Bitcoin Logo](logos/bitcoin-btc-logo.png) |
+| Ethereum (ETH)             | ![Ethereum Logo](logos/ethereum-eth-logo.png) |
+| Solana (SOL)               | ![Solana Logo](logos/solana-sol-logo.png) |
+| USD Coin (USDC)            | ![USDC Logo](logos/usd-coin-usdc-logo.png) |
+| BNB Chain                  | ![BNB Chain Logo](logos/binance-coin-bnb-logo.png) |
+| Tron (TRC20)               | ![Tron Logo](logos/tron-trx-logo.png) |
+| Polygon (MATIC)            | ![Polygon Logo](logos/polygon-matic-logo.png) |
 
 
 ---
 
 ## 🏦 Supported Platforms
 
-Flash Crypto integrates with leading cryptocurrency exchanges for seamless trading:
+Flash Crypto integrates with leading cryptocurrency exchanges for seamless trading. Visit them directly:
 
-- **Binance** 🟡
-- **Coinbase** 🔵
-- **Kraken** 🐙
-- **KuCoin** 🟢
-- **OKX** ⚫
-- **Bitstamp** 🔴
-- **Bitfinex** 🟣
-- **Bybit** 🟠
-- **Gate.io** 🔷
-- **Bitget** 🔺
+- 🟡 [**Binance**](https://www.binance.com) - Global leader in crypto trading.
+- 🔵 [**Coinbase**](https://www.coinbase.com) - User-friendly exchange for beginners.
+- 🐙 [**Kraken**](https://www.kraken.com) - Secure platform for advanced traders.
+- 🟢 [**KuCoin**](https://www.kucoin.com) - Wide range of altcoins.
+- ⚫ [**OKX**](https://www.okx.com) - High-performance trading.
+- 🔴 [**Bitstamp**](https://www.bitstamp.net) - Trusted since 2011.
+- 🟣 [**Bitfinex**](https://www.bitfinex.com) - Advanced trading features.
+- 🟠 [**Bybit**](https://www.bybit.com) - Derivatives and spot trading.
+- 🔷 [**Gate.io**](https://www.gate.io) - Diverse crypto offerings.
+- 🔺 [**Bitget**](https://www.bitget.com) - Fast-growing exchange.
 
-Each platform is displayed with its official logo, ensuring a professional and trustworthy experience. View them in the **Supported Platforms** section on the homepage.
+Each platform is displayed with its official logo in the **Supported Platforms** section on the homepage.
 
 ---
 
@@ -134,8 +134,8 @@ Help us improve Flash Crypto’s features and security! 🌟
 
 ### 🙌 For Non-Developers:
 - **Subscription Access**:
-  - Contact us on [Telegram](https://t.me/Mistreccv) for premium subscription details.
-  - Pricing: Reach out for current rates.
+   - Contact us on [Telegram](https://t.me/Mistreccv) for premium subscription details.
+   - Pricing: Reach out for current rates.
 
 ---
 
@@ -147,21 +147,17 @@ Help us improve Flash Crypto’s features and security! 🌟
 - **Wallet Storage** 💼: Store balances in compatible wallets.
 - **Dynamic User Counter** 📊: Live counter showcasing community growth.
 - **Blockchain Stamp** ✅: Blockchain-verified for trust.
-- **Supported Platforms** 🏦: Trade on top exchanges with ease.
+- **Supported Platforms** 🏦: Direct links to top exchanges.
 
 ---
 
 ## 📲 Stay Connected
 
 - **Join Our Telegram** 📩:
-  - Updates and community: [Join Telegram](https://t.me/Mistreccv)
-  
-- **Social Media** 🌐:
-  - Telegram: [telegram.org](https://telegram.org)
-
+   - Updates and community: [Join Telegram](https://t.me/Mistreccv)
   
 - **Need Help?** 🆘:
-  - Use the **Support Chat** panel or contact us on Telegram: [Support](https://t.me/Mistreccv)
+   - Use the **Support Chat** panel or contact us on Telegram: [Support](https://t.me/Mistreccv)
 
 ---
 
@@ -179,7 +175,6 @@ Showcase Flash Crypto’s vibrant interface with these screenshots:
 5. **Supported Platforms**: Top exchanges like Binance and Coinbase.
    ![Supported Platforms](logos/platforms-section.png)
 6. **Support Chat**: Interactive chat panel.
-
 
 
 
