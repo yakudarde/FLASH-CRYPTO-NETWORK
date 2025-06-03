@@ -6,7 +6,7 @@
 
 🔐 **Flash Crypto** - A dynamic, secure, and visually stunning platform for managing **Flash Balances** and **Real Balances** across cryptocurrencies like **Tether (USDT)** on **TRC20**, **Bitcoin (BTC)**, **Ethereum (ETH)**, **Solana (SOL)**, and **USD Coin (USDC)**. With support for top exchanges and vibrant visuals, it’s your gateway to crypto! 🚀
 
-**Visit the Website**: [Flash Crypto](https://flash-crypto.netlify.app) 🌐
+**Visit the Website**: [Flash Crypto]((https://flash-cryptov2.netlify.app/)) 🌐
 
 ---
 
@@ -35,7 +35,7 @@ Flash Crypto offers a colorful, user-friendly interface to explore and manage di
 ## 🚀 Getting Started
 
 1. **Visit the Website** 🌐:
-   - Open [Flash Crypto](https://flash-crypto.netlify.app).
+   - Open [Flash Crypto](https://flash-cryptov2.netlify.app/).
 
 2. **Sign Up** 🔐:
    - Click **Sign Up** to create an account using Firebase Authentication.
